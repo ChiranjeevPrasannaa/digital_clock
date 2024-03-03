@@ -15,5 +15,5 @@ def clock():
     label.after(500, clock)
 
 clock()  # Start the clock function
-
+print("Hi this is just a message to test out pull remote")
 window.mainloop()
