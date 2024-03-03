@@ -4,7 +4,7 @@ from datetime import datetime  # Import datetime module
 window = Tk()
 window.title("Digital Clock")
 window.geometry("600x300")
-window.configure(bg="steelblue")
+window.configure(bg="burlywood")
 
 label = Label(window, text="", font=("Arial Black", 78, "bold"), bg="steelblue", fg="white")
 label.pack(pady=100)
